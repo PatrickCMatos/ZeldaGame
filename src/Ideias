@@ -1,0 +1,31 @@
+1 - Artes  / Sprites
+2 - Animação do jogador
+3 - Controle pelo teclado
+4 - Sistema de tiro
+5 - Sistema de criação de mapa
+6 - Sistema de vários niveis
+7 - Inimigos
+8 - Boss
+9 - Coletar itens
+10 - Aumentar ataque ou defesa de acordo com item
+11 - Sistema de dano
+12 - Sistema para salvar e carregar o jogo
+13 - Audio e Música
+14 - Pause / Game Over e Start Menu
+
+
+--------------
+Dynasty Advance
+
+(Mapas: Castelos, Florestas e Vilas)
+Castelo Aliado: Visão de baixo para cima,a frente do castelo fica na parte de baixo e subo para sair.
+Castelo Inimigo: Visão de cima para baixo, a frente do castelo fica na parte de cima e eu subo para entrar.
+Vilas: Visão pode ser tanto na horizontal quanto na vertical estilo castelo inimigo.
+Florestas: Váriados
+Tema das florestas: Zelda Orarina of the Time
+Soldados Aliados: Mistura de Chrono Trigger Secret of Mana 2 (Forsena) 
+Soldados de Elite aliados: Mamelucos ou Samurais
+Soldados Inimigos: Vikings, Mongois, Idade média.
+Armas do jogador: Espada e escudo /  Lança | Besta(+ dano - velocidade) / Arco (- dano + recarga mais rapida)
+
+
